@@ -5,10 +5,14 @@ I like to code:
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cris1928&layout=compact&langs_count=8&theme=blue-green">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cris1928&show_icons=true&&theme=blue-green&include_all_commits=true&count_private=true">
-
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cris1928&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Cris1928&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+  </a>
+</p>
+
 
 ## Technologies
 
@@ -51,7 +55,8 @@ Operating Systems:
 Other technologies and programs:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-Cloud services:![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+Cloud services:
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 <!--
